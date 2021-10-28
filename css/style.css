@@ -6,28 +6,26 @@ h1 {
   margin-top: 0;
 }
 
+span {
+  text-decoration-line: underline;
+}
+
 /* class selector */
 
-.box1 {
+.top-container {
   width: 200px;
   height: 200px;
   background-color: #cee5d0;
-  border: solid 10px;
-  padding: 20px;
 }
 
-.box2 {
+.middle-container {
   width: 200px;
   height: 200px;
   background-color: #f3f0d7;
-  border: solid 20px;
-  margin-left: 260px;
 }
 
-.box3 {
+.bottom-container {
   width: 200px;
   height: 200px;
   background-color: #fed2aa;
-  border: solid 10px;
-  margin-left: 500px;
 }
